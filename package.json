@@ -1,0 +1,13 @@
+{
+  "name": "jl-digital-solutions",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --port 3000 --host",
+    "build": "vite build",
+    "start": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.7"
+  }
+}
