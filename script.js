@@ -3,7 +3,7 @@
    button on the site updates (navbar, hero, floating, footer).
    Number format: country code + number, digits only.
 --------------------------------------------------------- */
-const WHATSAPP_NUMBER = '27000000000';
+const WHATSAPP_NUMBER = '27762934852';
 const WHATSAPP_MESSAGE = 'Hi JL Digital Solution, I would like a quote for my business.';
 
 document.querySelectorAll('[data-whatsapp]').forEach((link) => {
